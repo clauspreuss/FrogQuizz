@@ -1,1 +1,12 @@
-Hallo !
+[{
+		"QuestionId": 1,
+		"Question": "What is your favorite travel destination?",
+		"Answers": ["Greenland", "The outback", "New York", "Katmandu"]
+	},
+	{
+		"QuestionId": 2,
+		"Question": "Would you rather be able to control the weather or control animals?",
+		"Answers": ["Weather", "Animals"]
+	}
+]
+

@@ -7,6 +7,47 @@
 		"QuestionId": 2,
 		"Question": "Would you rather be able to control the weather or control animals?",
 		"Answers": ["Weather", "Animals"]
+	},
+	{
+		"QuestionId": 3,
+		"Question": "Which color lightsaber would you rather have?",
+		"Answers": ["Red","Blue","Green"]
+	},
+	{
+		"QuestionId": 4,
+		"Question": "Would you rather be able to teleport or read minds?",
+		"Answers": ["Teleport", "Read minds"]
+	},
+	{
+		"QuestionId": 5,
+		"Question": "Are you romantic?",
+		"Answers": ["Yes", "No"]
+	},
+	{
+		"QuestionId": 6,
+		"Question": "How would your best friend describe you?",
+		"Answers": ["Courious","Loyal","Crazy","Witty","I don't have any friends"] 
+
+	},
+	{
+		"QuestionId": 7,
+		"Question": "Choose a school subject:",
+		"Answers": ["Art","Chemistry","Writing","Math","Sports"]  
+
+	},
+	{
+		"QuestionId": 8,
+		"Question": "What is your favorite pet?", 
+		"Answers": ["Mousee","Frog","Dog","Cat"] 
+	},
+	{
+		"QuestionId": 9,
+		"Question": "Wich type of food do you prefer?", 
+		"Answers": ["Italian","French","Mexican","Greek"] 
+	},
+	{
+		"QuestionId": 10,
+		"Question": "Would you rather give up music or sport?", 
+		"Answers": ["Music","Sport"]
 	}
 ]
-

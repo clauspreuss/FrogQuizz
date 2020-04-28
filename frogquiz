@@ -1,103 +1,53 @@
 [{
-	"QuestionId": 1,
-	"Question": "What is your favorite travel destination?",
-	"Answers": ["Greenland", "The outback", "New York", "Katmandu"],
-	"Weight": {
-		"0": [2, 1, 2, 4, 3, 1],
-		"1": [3, 2, 3, 3, 4, 2],
-		"2": [4, 3, 4, 2, 2, 4],
-		"3": [1, 4, 1, 1, 1, 3]
-	}
-},
+		"QuestionId": 1,
+		"Question": "What is your favorite travel destination?",
+		"Answers": ["Greenland", "The outback", "New York", "Katmandu"]
+	},
 	{
 		"QuestionId": 2,
 		"Question": "Would you rather be able to control the weather or control animals?",
-		"Answers": ["Weather", "Animals"],
-	"Weight": {
-		"0": [2, 1, 2, 1, 2, 1],
-		"1": [1, 2, 1, 2, 1, 2]
-	}
+		"Answers": ["Weather", "Animals"]
 	},
 	{
 		"QuestionId": 3,
 		"Question": "Which color lightsaber would you rather have?",
-		"Answers": ["Red","Blue","Green"],
-	"Weight": {
-		"0": [1, 1, 1, 3, 2, 3],
-		"1": [2, 2, 3, 2, 1, 1],
-		"2": [3, 3, 2, 1, 3, 2]
-	}
+		"Answers": ["Red","Blue","Green"]
 	},
 	{
 		"QuestionId": 4,
 		"Question": "Would you rather be able to teleport or read minds?",
-		"Answers": ["Teleport", "Read minds"],
-	"Weight": {
-		"0": [2, 1, 2, 1, 2, 1],
-		"1": [1, 2, 1, 2, 1, 2]
-	}
+		"Answers": ["Teleport", "Read minds"]
 	},
 	{
 		"QuestionId": 5,
 		"Question": "Are you romantic?",
-	"Weight": {
-		"0": [2, 2, 1, 1, 1, 1],
-		"1": [1, 1, 2, 2, 2, 2]
-	}
+		"Answers": ["Yes", "No"]
 	},
 	{
 		"QuestionId": 6,
 		"Question": "How would your best friend describe you?",
-		"Answers": ["Courious","Loyal","Crazy","Witty","I don't have any friends"],
-	"Weight": {
-		"0": [5, 2, 3, 1, 3, 1],
-		"1": [2, 3, 2, 3, 2, 4],
-		"2": [4, 4, 5, 2, 5, 5],
-		"3": [3, 1, 4, 4, 4, 2],
-		"4": [1, 5, 1, 5, 1, 3]
-	}
+		"Answers": ["Courious","Loyal","Crazy","Witty","I don't have any friends"] 
+
 	},
 	{
 		"QuestionId": 7,
 		"Question": "Choose a school subject:",
-		"Answers": ["Art","Chemistry","Writing","Math","Sports"],
-	"Weight": {
-		"0": [5, 4, 4, 3, 3, 2],
-		"1": [1, 3, 2, 2, 4, 3],
-		"2": [4, 5, 3, 4, 1, 4],
-		"3": [2, 2, 1, 5, 2, 5],
-		"4": [3, 1, 5, 1, 5, 1]
-	}
+		"Answers": ["Art","Chemistry","Writing","Math","Sports"]  
+
 	},
 	{
 		"QuestionId": 8,
 		"Question": "What is your favorite pet?", 
-		"Answers": ["Mousee","Frog","Dog","Cat"],
-	"Weight": {
-		"0": [2, 1, 4, 1, 2, 4],
-		"1": [1, 2, 2, 4, 1, 3],
-		"2": [4, 3, 3, 3, 4, 2],
-		"3": [3, 4, 1, 2, 3, 1] 
-	}
+		"Answers": ["Mousee","Frog","Dog","Cat"] 
 	},
 	{
 		"QuestionId": 9,
 		"Question": "Wich type of food do you prefer?", 
-		"Answers": ["Italian","French","Mexican","Greek"],
-	"Weight": {
-		"0": [3, 4, 3, 4, 3, 4],
-		"1": [4, 3, 2, 2, 2, 2],
-		"2": [1, 2, 4, 3, 4, 3],
-		"3": [2, 1, 1, 1, 1, 1]
-	}
+		"Answers": ["Italian","French","Mexican","Greek"] 
 	},
 	{
 		"QuestionId": 10,
 		"Question": "Would you rather give up music or sport?", 
-		"Answers": ["Music","Sport"],
-	"Weight": {
-		"0": [1, 2, 1, 1, 2, 1],
-		"1": [2, 1, 2, 2, 1, 2]
-	}
+		"Answers": ["Music","Sport"]
 	}
 ]

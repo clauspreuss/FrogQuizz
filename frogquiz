@@ -73,7 +73,7 @@
 	{
 	"QuestionId": 8,
 	"Question": "What is your favorite pet?",
-	"Answers": ["Mousee","Frog","Dog","Cat"],
+	"Answers": ["Mouse","Frog","Dog","Cat"],
 	"Weight": {
 		"0": [2, 1, 4, 1, 2, 4],
 		"1": [1, 2, 2, 4, 1, 3],
